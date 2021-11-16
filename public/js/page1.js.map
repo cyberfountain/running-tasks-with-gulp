@@ -1,0 +1,1 @@
+{"version":3,"file":"page1.js","sources":["../../src/ts/pages/page1.ts"],"sourcesContent":["import Foo from \"../Modules/Foo\"\n\nnew Foo()\n\nconsole.log(\"page 1\")\n"],"names":[],"mappings":";;AAEA,IAAI,GAAG,EAAE,CAAA;AAET,OAAO,CAAC,GAAG,CAAC,QAAQ,CAAC"}
